@@ -15,6 +15,8 @@ console.log("Pin:", pin, "," , "        Type:", typeof pin );
 console.log("Contact:", contact, "," , "Type:", typeof contact );
 console.log("ID Number:", idNumber, "," , "       Type:", typeof idNumber );
 
+``
+
 console.log("");
 
 console.log("Married:", isMarried, ",", "          Type:", typeof isMarried);
